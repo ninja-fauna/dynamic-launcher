@@ -1294,7 +1294,7 @@ setup:
     language: 言語
     name: 言語を設定
   path: 現在のパス
-  title: Flame Launcherへようこそ。開始する前に、
+  title: Dynamic Launcherへようこそ。開始する前に、
 shaderPack:
   deletion: シェーダーパックを削除
   deletionHint: シェーダーパック {path} を削除します。この操作は取り消せません。
@@ -1354,8 +1354,8 @@ theme:
   selectImage: 画像を選択
   selectMusic: 音楽を選択
   selectVideo: 映像を選択
-  title: Flame Launcher
-title: Flame Launcher
+  title: Dynamic Launcher
+title: Dynamic Launcher
 transportType:
   host: ホスト候補
   prflx: ピアの反射の候補

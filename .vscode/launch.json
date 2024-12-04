@@ -70,7 +70,7 @@
                 "NODE_ENV": "production",
             },
             "windows": {
-                "runtimeExecutable": "${workspaceFolder}/xmcl-electron-app/build/output/win-unpacked/Flame Launcher.exe",
+                "runtimeExecutable": "${workspaceFolder}/xmcl-electron-app/build/output/win-unpacked/Dynamic Launcher.exe",
                 "env": {}
             },
             "linux": {
@@ -78,7 +78,7 @@
                 "env": {}
             },
             "osx": {
-                "runtimeExecutable": "${workspaceFolder}/xmcl-electron-app/build/output/mac/Flame Launcher.app/Contents/MacOS/Flame Launcher",
+                "runtimeExecutable": "${workspaceFolder}/xmcl-electron-app/build/output/mac/Dynamic Launcher.app/Contents/MacOS/Dynamic Launcher",
                 "env": {}
             }
         },

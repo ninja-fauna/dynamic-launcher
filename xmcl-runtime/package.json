@@ -3,7 +3,7 @@
     "private": true,
     "version": "0.44.12",
     "author": "ci010 <cijhn@hotmail.com>",
-    "description": "The runtime for Flame Launcher in nodejs",
+    "description": "The runtime for Dynamic Launcher in nodejs",
     "license": "MIT",
     "main": "index.ts",
     "engines": {

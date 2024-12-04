@@ -284,7 +284,7 @@ fabricVersion:
 feedback:
   channel: Channels
   description: I found a Bug or I want to make a suggestion
-  discord: Discord (Flame Launcher)
+  discord: Discord (Dynamic Launcher)
   discordDescription: Join Discord Channel
   discordJoin: Join
   generateReport: Generate Report
@@ -1368,7 +1368,7 @@ setup:
     language: Language
     name: Set Language
   path: Current Path
-  title: 'Welcome to Flame Launcher. Before start, we need you to '
+  title: 'Welcome to Dynamic Launcher. Before start, we need you to '
 shaderPack:
   deletion: Delete Shader Pack
   deletionHint: This will delete the shader pack file {path} and cannot be reverted.
@@ -1422,7 +1422,7 @@ theme:
   selectImage: Select Image
   selectMusic: Select Music
   selectVideo: Select Video
-title: Flame Launcher
+title: Dynamic Launcher
 transportType:
   host: Host Candidate
   prflx: Peer Reflexive Candidate

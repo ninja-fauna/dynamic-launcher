@@ -1407,7 +1407,7 @@ setup:
     name: Imposta lingua
   path: Percorso corrente
   title: >-
-    Benvenuto in Flame Launcher. Prima di iniziare, abbiamo bisogno che
+    Benvenuto in Dynamic Launcher. Prima di iniziare, abbiamo bisogno che
     tu 
 shaderPack:
   deletion: Elimina Shader Pack
@@ -1464,7 +1464,7 @@ theme:
   selectImage: Scegli Immagine
   selectMusic: Scegli Musica
   selectVideo: Scegli Video
-title: Flame Launcher
+title: Dynamic Launcher
 transportType:
   host: Host Scelto
   prflx: Peer Reflexive Scelto

@@ -5,7 +5,7 @@ import type { Configuration } from 'electron-builder'
 dotenv()
 
 export const config = {
-  productName: 'Flame Launcher',
+  productName: 'Dynamic Launcher',
   appId: 'fmcl',
   directories: {
     output: 'build/output',
@@ -34,7 +34,7 @@ export const config = {
   }],
   artifactName: 'fmcl-${version}-${platform}-${arch}.${ext}',
   appx: {
-    displayName: 'Flame Launcher',
+    displayName: 'Dynamic Launcher',
     applicationId: 'fmcl',
     identityName: 'fmcl',
     backgroundColor: 'transparent',

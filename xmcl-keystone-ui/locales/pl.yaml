@@ -1420,7 +1420,7 @@ setup:
     language: Język
     name: Ustaw język
   path: Bieżąca ścieżka
-  title: 'Witamy w Flame Launcher. Zanim zaczniesz, musisz '
+  title: 'Witamy w Dynamic Launcher. Zanim zaczniesz, musisz '
 shaderPack:
   deletion: Usuń pakiet shaderów
   deletionHint: >-
@@ -1477,7 +1477,7 @@ theme:
   selectImage: Wybierz obraz
   selectMusic: Wybierz muzykę
   selectVideo: Wybierz wideo
-  title: Flame Launcher
+  title: Dynamic Launcher
 transportType:
   host: Kandydat na gospodarza
   prflx: Refleksyjny kandydat na rówieśnika
