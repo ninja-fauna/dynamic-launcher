@@ -72,9 +72,9 @@ export function useTheme(framework: Framework, { addMedia, removeMedia, exportTh
     colors: {
       lightAppBarColor: '#e0e0e0FF',
       lightSideBarColor: '#FFFFFFFF',
-      darkAppBarColor: '#ff000024',
-      darkSideBarColor: '#ff000024',
-      darkPrimaryColor: '#ff0000',
+      darkAppBarColor: '#0062ff24',
+      darkSideBarColor: '#0062ff24',
+      darkPrimaryColor: '#0062ff',
       darkBackground: '#0000001a',
       darkInfoColor: '#2196F3',
       darkErrorColor: '#FF5252',
@@ -82,7 +82,7 @@ export function useTheme(framework: Framework, { addMedia, removeMedia, exportTh
 
       darkSuccessColor: '#4CAF50',
       darkAccentColor: '#00e676',
-      darkCardColor: '#ff000024',
+      darkCardColor: '#0062ff24',
       lightPrimaryColor: '#9403fc',
       lightBackground: '#FFFFFF24',
       lightInfoColor: '#2196F3',
