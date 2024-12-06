@@ -20,8 +20,8 @@ export const config = {
   // set this to your own repo!
   publish: [{
     provider: 'github',
-    owner: 'aislxflames',
-    repo: 'flame-launcher',
+    owner: 'ninja-fauna',
+    repo: 'dynamic-launcher',
   }],
   files: [{
     from: 'dist',
@@ -39,7 +39,7 @@ export const config = {
     identityName: 'fmcl',
     backgroundColor: 'transparent',
     publisher: 'CN=DAFB9390-F5BD-4F94-828C-242F8DAA6FDE',
-    publisherDisplayName: 'AISLX',
+    publisherDisplayName: 'NINJA',
     setBuildNumber: true,
   },
   dmg: {
